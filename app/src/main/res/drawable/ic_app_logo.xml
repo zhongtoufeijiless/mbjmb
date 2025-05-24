@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 信封主体 -->
+    <path android:fillColor="#4285F4" android:pathData="M4,12h40a2,2 0 0 1 2,2v20a2,2 0 0 1 -2,2H4a2,2 0 0 1 -2,-2V14a2,2 0 0 1 2,-2z"/>
+    <!-- 信封盖 -->
+    <path android:fillColor="#34A853" android:pathData="M2,14l22,14 22,-14"/>
+    <!-- 安全锁圆弧 -->
+    <path android:fillColor="#FBBC05" android:pathData="M20,22a4,4 0 0 1 8,0v2h-8z"/>
+    <!-- 安全锁矩形 -->
+    <path android:fillColor="#EA4335" android:pathData="M22,24h4v6h-4z"/>
+</vector> 
